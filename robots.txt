@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomrichgamedev.github.io/ax9/sitemap.xml
